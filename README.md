@@ -19,5 +19,5 @@ Hi, I'm Nishchay Singh - a working professional at Capgemini with 2.5+ years of 
 Currently, I'm building projects that explore LLM orchestration, evaluation frameworks, and read-world AI applications.
 
 Featured Projects:
-- ####Food Ordering Agent - Agentic conversation system built with LangGraph + Gemini, handling order state management and tool-based interactions.
-- ###SQL Query Generator - Natural Language to SQL generator using LLMs, with a secondary LLM as judge for evaluation. Focused on schema -aware prompts and query correctness.
+- *Food Ordering Agent* - Agentic conversation system built with LangGraph + Gemini, handling order state management and tool-based interactions.
+- **SQL Query Generator*** - Natural Language to SQL generator using LLMs, with a secondary LLM as judge for evaluation. Focused on schema -aware prompts and query correctness.
