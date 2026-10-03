@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Nishchay Singh - a working professional at Capgemini with 2.5+ years of experience. I specialize in Generative AI systems, with hands-on expertise in LangChain, LangGraph, RAG, multimodal search, and AWS Bedrock. 
-Currently, I'm building projects that explore LLM orchestration, evaluation frameworks, and read-world AI applications.
+Hi, I'm Nishchay Singh - a working professional at Capgemini with 3 years of experience. I specialize in Generative AI systems, with hands-on expertise in LangChain, LangGraph, RAG, multimodal search, and AWS Bedrock. 
+Currently, I'm building projects that explore LLM orchestration, evaluation frameworks, and real-world AI applications.
 
 #### Featured Projects:
 - _**SQL Query Generator**_ - Natural Language to SQL generator using LLMs, with a secondary LLM as judge for evaluation. Focused on schema -aware prompts and query correctness.
